@@ -1,6 +1,3 @@
-# buz1.0
-this was a project by jay kudva, rishi parikh, clifford xu, and nikhil prabhu. we received technical assistance from Richard Huang.
-have a nice day
-thank you for taking time to open this file
-:)
-santosh is amazing
+# Buz 1.0
+Project at Los Altos Hacks 2 by Jay Kudva, Rishi Parikh, Clifford Xu, and Nikhil Prabhu. 
+We received technical assistance from Richard Huang.
